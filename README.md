@@ -2,4 +2,4 @@
 
 Initial test project.  Ignore anything and everything.git
 
-Don't read this.git
+Ok, read this too.
